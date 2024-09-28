@@ -1,1 +1,1 @@
-* Just download a zip file and that's it
+ Just download a zip file and that's it
