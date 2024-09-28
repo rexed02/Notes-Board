@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=notes_board
+X-Python-2-Compatible=false
+Name=Notes Board
+Comment=An implementation for taking notes outside the canvas in krita 
